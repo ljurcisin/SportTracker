@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Sports
+
+  Created by Lubomir Jurcisin on 28/04/2021.
+  Copyright © 2020 Lubomir Jurcisin. All rights reserved.
+*/
+
+"Delete" = "Delete";
+"Are you sure you want to delete this activity?" = "Are you sure you want to delete this activity?";
+"Yes" = "Yes";
+"No" = "No";
+"Create new Activity" = "Create new Activity";
+"How did that feel?" = "How did that feel?";
+"Pick sport" = "Pick sport";
+"Duration" = "Duration";
+"Location" = "Location";
+"Storage" = "Storage";
+"Failure" = "Failure";
+"Creating new sport activity failed" = "Creating new sport activity failed";
+"Ok" = "Ok";
+"Run" = "Run";
+"Weight" = "Weight";
+"Cardio" = "Cardio";
+"Swim" = "Swim";
+"Bike" = "Bike";
+"Football" = "Football";
+"GPS is not available. Please allow location services to use your current location" = "GPS is not available. Please allow location services to use your current location";
+"Create new" = "Create new";
+"Search" = "Search";
+"Select" = "Select";
+" hours " = " hours ";
+" hour " = " hour ";
+" minutes" = " minutes";
+" minute" = " minute";

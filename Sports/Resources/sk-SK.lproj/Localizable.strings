@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  Sports
+
+  Created by Lubomir Jurcisin on 28/04/2021.
+  Copyright © 2020 Lubomir Jurcisin. All rights reserved.
+*/
+
+"Delete" = "Vymazanie";
+"Are you sure you want to delete this activity?" = "Praješ si vymazať túto aktivitu?";
+"Yes" = "Áno";
+"No" = "Nie";
+"Create new Activity" = "Vytvorenie novej aktivity";
+"How did that feel?" = "Ako si sa cítil?";
+"Pick sport" = "Vyber šport";
+"Duration" = "Trvanie";
+"Location" = "Poloha";
+"Storage" = "Úložisko";
+"Failure" = "Zlyhanie";
+"Creating new sport activity failed" = "Vytvorenie novej aktivity skončilo chybou";
+"Ok" = "Ok";
+"Run" = "Beh";
+"Weight" = "Silový tréning";
+"Weight training" = "Silový tréning";
+"Cardio" = "Kardio";
+"Swim" = "Plávanie";
+"Bike" = "Bicykel";
+"Football" = "Futbal";
+"GPS is not available. Please allow location services to use your current location" = "GPS je nedostupné. Prosím povoľte lokalizačné služby, ak si prajete použit Vašu polohu";
+"Create new" = "Vytvoriť";
+"Search" = "Vyhľadať";
+"Select" = "Vybrať";
+" hours " = " hodín ";
+" hour " = " hodina ";
+" minutes" = " minút";
+" minute" = " minúta";
